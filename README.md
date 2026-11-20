@@ -6,4 +6,4 @@ Selenium notebook that opens your Amazon order history in your own Chrome profil
 - Amazon's page markup changes often; selectors may need adjusting.
 - Use only on your own account and respect Amazon's terms.
 
-One of my first projects, written by [@KleverBatista-max](https://github.com/KleverBatista-max).
+One of my first projects, written by **John Batista** ([@KleverBatista-max](https://github.com/KleverBatista-max)).
